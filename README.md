@@ -43,3 +43,8 @@ jsMonthlyCal is a javascript library to draw monthly calendar. It is a static ca
    * nbtotal {number} number of month to draw
    * nb {number} number of month after (positive) or before (negative)
    * options {object} all options to cutomize (CSS based language)
+
+## Dependencies
+
+* none
+
