@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src='./jsmonthlycal.js'></script>
+	<script>
+		window.onload = function() {
+			var mydate = new Date();
+			var options = {
+				size: '10px',
+				week: {
+					color: 'DimGray'
+				}
+			};
+			jsMonthlyCal.drawCalendar('here_calendar', mydate, 4, -2 , options);
+		};
+	</script>
+</head>
+<body>
+<h2>Calendar</h2>
+	<div>
+		<table id="here_calendar" style="border: 1px solid; border-collapse: collapse;"></table>
+	</div>
+</body>
+</html>
