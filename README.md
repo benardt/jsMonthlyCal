@@ -1,6 +1,6 @@
 
 
-[![Code Grade](https://www.code-inspector.com/project/24169/score/svg)](https://frontend.code-inspector.com/project/24174/dashboard)
+[![Code Grade](https://www.code-inspector.com/project/24174/score/svg)](https://frontend.code-inspector.com/project/24174/dashboard)
 
 # jsMontlyCal
 
